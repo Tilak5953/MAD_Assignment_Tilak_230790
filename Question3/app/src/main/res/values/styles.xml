@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary color: Blue -->
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryVariant">#F44336</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary color: Orange -->
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorSecondaryVariant">#F57C00</item>
+        <item name="colorOnSecondary">#000000</item>
+    </style>
+</resources>

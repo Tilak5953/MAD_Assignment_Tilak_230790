@@ -1,0 +1,11 @@
+<resources>
+    <!-- Primary color: Blue -->
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryVariant">#FFC107</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Secondary color: Orange -->
+    <color name="colorSecondary">#FF9800</color>
+    <color name="colorSecondaryVariant">#F57C00</color>
+    <color name="colorOnSecondary">#000000</color>
+</resources>
