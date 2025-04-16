@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">GoogleApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">181116267892</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7KSpTK6xXo9oaf5A2NTDWAboEEHJrnVE</string>
+    <string name="google_app_id" translatable="false">1:181116267892:android:61585a22a045f6ef3d1021</string>
+    <string name="google_client_id">193523962456-ap4nn63cdfbqbsup4c5ot8d530k63eul.apps.googleusercontent.com</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7KSpTK6xXo9oaf5A2NTDWAboEEHJrnVE</string>
+    <string name="google_storage_bucket" translatable="false">app-f8439.firebasestorage.app</string>
+    <string name="project_id" translatable="false">app-f8439</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#008577</item>
+        <item name="colorPrimaryVariant">#00574B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#D81B60</item>
+        <item name="colorSecondaryVariant">#A00037</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Base.Theme.GoogleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GoogleApp" parent="Base.Theme.GoogleApp"/>
+</resources>
